@@ -1,5 +1,4 @@
 import React from 'react';
-import './app.css';
 import ShopHeader from '../shop-header';
 import { Route, Switch } from 'react-router-dom';
 import { HomePage, CartPage } from '../pages';
